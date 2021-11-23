@@ -5,7 +5,7 @@ The entire set of tasks would take most mid-level front developers about 2-4 hou
 
 Just work through the tasks and see how many you can do in such a way that you are happy with how much you accomplished. You are free to use any library, framework, and previous code to accomplish the tasks. After submission you are free to make edits up and until the time we have agreed to review your code.
 
-**Please fork the repo and share your version when done via email to luis@trend.io**
+**Please fork the repository and share your version when done via email to luis@trend.io**
 
 To be totally clear, _there is no expectation for you to complete all of the tasks_!
 
