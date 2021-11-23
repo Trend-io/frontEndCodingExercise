@@ -45,7 +45,7 @@ As a brand of Trend, I'd like to have a way to sort through your content creator
 - Previous paid experience
 - Tags
 
-I would also like to have the option to sort this data based on **total years of experience combined from his skillset**, such that the example above will have a total experience of 13 years (8 from Social Posts plus 5 from Video Creation). If two records are the same we will use firstName as secondary sorting.
+I would also like to have the option to sort this data based on **total years of experience combined from his/her skillset**, such that the example above will have a total experience of 13 years (8 from Social Posts plus 5 from Video Creation). If two records are the same we will use firstName as secondary sorting.
 
 ## Tasks:
 
