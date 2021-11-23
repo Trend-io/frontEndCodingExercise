@@ -11,7 +11,7 @@ To be totally clear, _there is no expectation for you to complete all of the tas
 
 Thanks in advance for your time!
 
-### Assets Folder
+## Assets Folder
 
 **influencerData_500.json**
 File with less than 500 entries that simulates a DB. It has a valid JSON file that was generated with the following structure:
@@ -47,7 +47,7 @@ As a brand of Trend, I'd like to have a way to sort through your content creator
 
 I would also like to have the option to sort this data based on **total years of experience combined from his/her skillset**, such that the example above will have a total experience of 13 years (8 from Social Posts plus 5 from Video Creation). If two records are the same we will use firstName as secondary sorting.
 
-## Tasks:
+## Tasks
 
 - Create the most minimal UI to accomplish this task, once again feel free to use existing libraries to shorten the time.
 - All UI elements for filtering and sorting should refresh the view of the elements being displayed.
@@ -55,7 +55,7 @@ I would also like to have the option to sort this data based on **total years of
 - BONUS - Implement the solution for influencerData_bigger and consider how different it is to work with a few hundred elements vs a few thousand.
 - BONUS - Display the image on the list UI and make it clickable such that it expands and uses 80% of the screen vertically and is centered vertically and horizontally.
 
-## Things to consider during your review:
+## Things to consider during your review
 
 - Minimal Complexity
 - File Organization and clear communication during commits
