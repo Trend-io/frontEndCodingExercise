@@ -5,9 +5,9 @@ The entire set of tasks would take most mid-level front developers about 2-4 hou
 
 Just work through the tasks and see how many you can do in such a way that you are happy with how much you accomplished. You are free to use any library, framework, and previous code to accomplish the tasks. After submission you are free to make edits up and until the time we have agreed to review your code.
 
-**Please fork the repository and share your version when done via email to luis@trend.io**
+**To be totally clear, _THERE IS NO EXPECTATION FOR YOU TO COMPLETE ALL OF THE TASKS_!**
 
-To be totally clear, _there is no expectation for you to complete all of the tasks_!
+**Please fork the repository and share your version when done via email to luis@trend.io**
 
 Thanks in advance for your time!
 
@@ -52,13 +52,15 @@ I would also like to have the option to sort this data based on **total years of
 - Create the most optimal UI to accomplish this task, once again feel free to use existing libraries to shorten the time.
 - All UI elements for filtering and sorting should refresh the view of the elements being displayed.
 - BONUS - Implement Text Search on all the 4 fields from a single input element.
+- BONUS - Implement mobile-first approach with a screensize of 375pixels (width) by 812pixels (length).
 - BONUS - Implement the solution for influencerData_bigger and consider how different it is to work with a few hundred elements vs a few thousand.
 - BONUS - Display the image on the list UI and make it clickable such that it expands and uses 80% of the screen vertically and is centered vertically and horizontally.
-- BONUS - Implement mobile-first approach.
+
 
 ## Things to consider during your review
 
 - Minimal Complexity
+- Beautiful and Modern Design
 - File Organization and clear communication during commits
 - Ease of maintenance
 - Extensibility
