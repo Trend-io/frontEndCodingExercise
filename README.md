@@ -39,7 +39,7 @@ File with less than 500 entries that simulates a DB. It has a valid JSON file th
 Same as influencerData_500.json but with a lot more entries
 
 ## User Story
-As a brand of Trend, I'd like to have a way to sort through your content creators such that I can filter the results based on the following attributes:
+As a brand of Trend, I'd like to have a way to filter the results based on the following attributes:
 - Skillsets
 - Gender
 - Previous paid experience
@@ -49,11 +49,12 @@ I would also like to have the option to sort this data based on **total years of
 
 ## Tasks
 
-- Create the most minimal UI to accomplish this task, once again feel free to use existing libraries to shorten the time.
+- Create the most optimal UI to accomplish this task, once again feel free to use existing libraries to shorten the time.
 - All UI elements for filtering and sorting should refresh the view of the elements being displayed.
-- BONUS - Implement Text Search on all the 4 fields, such that I can find creators based on keywords.
+- BONUS - Implement Text Search on all the 4 fields from a single input element.
 - BONUS - Implement the solution for influencerData_bigger and consider how different it is to work with a few hundred elements vs a few thousand.
 - BONUS - Display the image on the list UI and make it clickable such that it expands and uses 80% of the screen vertically and is centered vertically and horizontally.
+- BONUS - Implement mobile-first approach.
 
 ## Things to consider during your review
 
@@ -62,6 +63,6 @@ I would also like to have the option to sort this data based on **total years of
 - Ease of maintenance
 - Extensibility
 - Reusability
-- Best Practices for Rendering.
+- Best Practices for Rendering
 
 Good luck!
