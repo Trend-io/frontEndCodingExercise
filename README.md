@@ -1,4 +1,4 @@
-# Trend Interview Take-home Challenge
+# Trend Interview Take-home Exercise
 
 This is a coding challenge designed to test user interface choices as well as coding skills for common features in a web application.
 The entire set of tasks would take most mid-level front developers about 2-4 hours to finish, feel free to spend as much time as you would like. At Trend, we value the quality of the solutions not the scope or the time it takes to accomplish.
