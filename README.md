@@ -57,7 +57,7 @@ I would also like to have the option to sort (ascending and descending) this dat
 - [ ] Create the most optimal UI to accomplish the User Story, once again feel free to use existing libraries to shorten the time.
 - [ ] Import the json file (influencerData_500.json) such that the data in it is rendered on your UI.
 - [ ] All UI elements for filtering and sorting should refresh the view of the elements being displayed when modified.
-- [ ] BONUS - Implement Text Search on all the 4 fields from a new single input element. 
+- [ ] BONUS - Implement Text Search on all the 4 fields from a new single input element.
 - [ ] BONUS - Implement mobile-first approach with a screensize of 375pixels (width) by 812pixels (length).
 - [ ] BONUS - Implement the solution for influencerData_bigger and consider how different it is to work with a few hundred elements vs a few thousand.
 - [ ] BONUS - Display the image on the list UI and make it clickable such that it expands and uses 80% of the screen vertically and is centered vertically and horizontally.
